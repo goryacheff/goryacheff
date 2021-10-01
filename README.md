@@ -2,7 +2,7 @@
 
 #### Technologies & Tools:
 
-![](https://img.shields.io/badge/-HTML-red?style=for-the-badge) ![](https://img.shields.io/badge/-CSS-informational?style=for-the-badge) ![](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge) ![](https://img.shields.io/badge/-React-blue?style=for-the-badge)
+![](https://img.shields.io/badge/-HTML-red?style=for-the-badge) ![](https://img.shields.io/badge/-CSS-informational?style=for-the-badge) ![](https://img.shields.io/badge/-Git-orange?style=for-the-badge) ![](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge) ![](https://img.shields.io/badge/-React-blue?style=for-the-badge)
 
 <!--
 **goryacheff/goryacheff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
