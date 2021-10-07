@@ -10,7 +10,7 @@
 
 ![](https://img.shields.io/badge/-Redux-purple?style=for-the-badge) ![](https://img.shields.io/badge/-Redux_Thunk-purple?style=for-the-badge) 
 
-![](https://img.shields.io/badge/-Less-violet?style=for-the-badge)
+![](https://img.shields.io/badge/-Less-violet?style=for-the-badge) ![](https://img.shields.io/badge/-Sass-violet?style=for-the-badge)
 
 ![](https://img.shields.io/badge/-Node-darkgreen?style=for-the-badge) ![](https://img.shields.io/badge/-Express-green?style=for-the-badge) 
 
