@@ -16,6 +16,11 @@
 
 ![](https://img.shields.io/badge/-MongoDB-darkgreen?style=for-the-badge)
 
+### Curriculum vitae:
+2011 - 2015 BA religius studies (Oryol State University)
+
+### Open Source projects:
+
 <!--
 **goryacheff/goryacheff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
